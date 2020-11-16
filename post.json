@@ -1,0 +1,17 @@
+{
+    "etablissement": {
+        "oid": "Oid",
+        "platform": "Platform",
+        "cml": "Cml"
+    },
+    "autorisations": [
+        {
+            "acte": "ActeH1100",
+            "entraineFinalisation": true
+        },
+        {
+            "acte": "ActeH1101",
+            "entraineFinalisation": true
+        }
+    ]
+}
